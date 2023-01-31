@@ -5,7 +5,7 @@
 name: 'dbt_project_2023'
 version: '1.0.0'
 config-version: 2
-require-dbt-version: 0.00.1
+require-dbt-version: 0.21.1
 
 # This setting configures which "profile" dbt uses for this project.
 profile: 'dbt_project_2023'
